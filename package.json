@@ -1,0 +1,17 @@
+{
+  "dependencies": {    "tea-forliann": "1.1.5",
+  "tea-triplble": "1.1.5",
+  "tea-resta": "1.0.0", 
+  "tea-reversa": "1.0.0", 
+  "tea-restasigne": "1.0.0", 
+  "tea-reversasigne": "1.0.0", 
+  "mytea-el": "1.2.4",
+  "teashot": "1.1.4",
+  "syncso": "1.1.4",
+  "zetaiyazeta": "1.0.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.0"
+  }
+}
